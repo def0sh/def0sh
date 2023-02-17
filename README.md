@@ -28,4 +28,3 @@ Two years i worked with Python automation. But due to my curiosity and interest 
 
 - Telegram: https://t.me/def0sh
 - Mail: temkinmaksim17@gmail.com
-/
