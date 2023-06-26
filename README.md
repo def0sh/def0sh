@@ -1,9 +1,5 @@
 # 🦹‍♂️ Temkin Maksim
 
-Two years i worked with Python automation. But due to my curiosity and interest half year ago started working with backend and very excited with. I can't stopped to be amazed at new things that I learn and it's very cool.
-
-
-#### `Now i’m looking for a new position as backend developer`
 
 ***
 ### 🧰 Languages and Tools
